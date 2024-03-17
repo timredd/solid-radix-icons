@@ -34,7 +34,7 @@
     "test:types": "tsc --project tsconfig.test.json",
     "pretty": "prettier --write \"{src,test}/**/*.{ts,tsx}\""
   },
-  "devDependencies": {
+  "dependencies": {
     "@babel/core": "^7.21.0",
     "@babel/preset-typescript": "^7.21.0",
     "@rollup/plugin-babel": "^6.0.3",

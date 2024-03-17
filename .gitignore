@@ -6,3 +6,6 @@ solid-radix-icons-*.tgz
 
 .DS_Store
 **/.DS_Store
+
+pnpm-lock.yaml
+

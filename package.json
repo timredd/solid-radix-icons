@@ -9,13 +9,9 @@
   ],
   "license": "MIT",
   "version": "1.0.0",
-  "homepage": "https://trents.computer/radix-icons",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TrentsPC/solid-radix-icons"
-  },
-  "publishConfig": {
-    "access": "public"
+    "url": "https://github.com/timredd/solid-radix-icons"
   },
   "type": "module",
   "main": "dist/index.js",

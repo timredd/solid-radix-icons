@@ -29,6 +29,7 @@
   "scripts": {
     "build": "tsc && rollup -c",
     "prepublishOnly": "npm run build",
+    "postinstall": "npm run build",
     "test": "npm run test:types",
     "test:types": "tsc --project tsconfig.test.json",
     "pretty": "prettier --write \"{src,test}/**/*.{ts,tsx}\""
